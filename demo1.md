@@ -1,8 +1,6 @@
 Date: Tuesday the 7th of May 2024.
 
-change123456789this is the change
-
-1. git clone - change 111
+1. git clone 
 
 2. pwd - change 222
 
@@ -16,9 +14,9 @@ change123456789this is the change
 
 7. git add .
 
-8. git commit -m  - hapahapahapa1 111
+8. git commit -m  
 
-9. git push - hapa2 222
+9. git push 
 
 10. mv (also git mv)
 
