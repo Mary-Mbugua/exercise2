@@ -2,9 +2,9 @@ Date: Tuesday the 7th of May 2024.
 
 1. git clone 
 
-2. pwd - change 222
+2. pwd 
 
-3. ls - change 333
+3. ls 
 
 4. cd (.) (..) (~)
 
