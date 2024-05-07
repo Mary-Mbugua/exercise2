@@ -36,6 +36,14 @@ Date: Tuesday the 7th of May 2024.
 
 18. git pull
 
+19. git checkout -b 
+
+20. git Branches
+
+21. git push --set-upstream origin
+
+22. git branch -d  
+
 Exercises Done:
 
 1. Exercise 1 Getting started Git 
@@ -55,3 +63,5 @@ Exercises Done:
 8. Exercise 8 tags
 
 9. Exercise 9 Pull
+
+10. Exercise 10 Branches
