@@ -2,7 +2,7 @@ Date: Tuesday the 7th of May 2024.
 
 1. git clone
 
-2. pwd "Note that this toothbrush is totally safe to use for children, adults, pets, and wildlife."
+2. pwd “Note that this toothbrush is totally safe to use for children, adults, pets, wildlife, and trees.” (I know, we are getting more absurd.)
 
 3. ls
 
