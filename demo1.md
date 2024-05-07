@@ -44,6 +44,12 @@ Date: Tuesday the 7th of May 2024.
 
 22. git branch -d  
 
+23. git stash save
+
+24. git stash list
+
+25. git stash pop
+
 Exercises Done:
 
 1. Exercise 1 Getting started Git 
@@ -65,3 +71,5 @@ Exercises Done:
 9. Exercise 9 Pull
 
 10. Exercise 10 Branches
+
+11. Exercise 11 Stash
