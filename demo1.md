@@ -22,6 +22,10 @@ Date: Tuesday the 7th of May 2024.
 
 11. rm (also git rm)
 
+12. git log (--oneline)
+
+13. git checkout
+
 Exercises Done:
 
 1. Exercise 1 Getting started Git 
@@ -35,3 +39,5 @@ Exercises Done:
 5. Exercise 5 Changing
 
 6. Exercise 6 Renaming and Deleting
+
+7. Exercise 7 Going back in time
