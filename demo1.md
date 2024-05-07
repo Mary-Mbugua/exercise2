@@ -1,10 +1,12 @@
 Date: Tuesday the 7th of May 2024.
 
-1. git clone
+change123456789this is the change
 
-2. pwd 
+1. git clone - change 1
 
-3. ls
+2. pwd - change 2
+
+3. ls - change 3
 
 4. cd (.) (..) (~)
 
