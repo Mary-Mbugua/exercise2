@@ -16,7 +16,11 @@ Date: Tuesday the 7th of May 2024.
 
 8. git commit -m 
 
-9. git push main
+9. git push 
+
+10. mv (also git mv)
+
+11. rm (also git rm)
 
 Exercises Done:
 
@@ -29,3 +33,5 @@ Exercises Done:
 4. Exercise 4 Adding
 
 5. Exercise 5 Changing
+
+6. Exercise 6 Renaming and Deleting
