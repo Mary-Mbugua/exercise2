@@ -34,6 +34,8 @@ Date: Tuesday the 7th of May 2024.
 
 17. git push origin <tagname>
 
+18. git pull
+
 Exercises Done:
 
 1. Exercise 1 Getting started Git 
@@ -51,3 +53,5 @@ Exercises Done:
 7. Exercise 7 Going back in time
 
 8. Exercise 8 tags
+
+9. Exercise 9 Pull
