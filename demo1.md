@@ -26,6 +26,14 @@ Date: Tuesday the 7th of May 2024.
 
 13. git checkout
 
+14. git tag -add
+
+15. git tag
+
+16. git checkout tags/<tagname>
+
+17. git push origin <tagname>
+
 Exercises Done:
 
 1. Exercise 1 Getting started Git 
@@ -41,3 +49,5 @@ Exercises Done:
 6. Exercise 6 Renaming and Deleting
 
 7. Exercise 7 Going back in time
+
+8. Exercise 8 tags
