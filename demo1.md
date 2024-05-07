@@ -1,6 +1,6 @@
 Date: Tuesday the 7th of May 2024.
 
-1. git clone
+1. git clone “Pavel robotic toothbrush” to “Pavel automated toothbrush”.
 
 2. pwd "Note that this toothbrush is totally safe to use for children, adults, pets, and wildlife."
 
