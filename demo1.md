@@ -50,6 +50,8 @@ Date: Tuesday the 7th of May 2024.
 
 25. git stash pop
 
+26. 
+
 Exercises Done:
 
 1. Exercise 1 Getting started Git 
@@ -73,3 +75,5 @@ Exercises Done:
 10. Exercise 10 Branches
 
 11. Exercise 11 Stash
+
+12. Exercise 12 Merging Branches
