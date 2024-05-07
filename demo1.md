@@ -14,9 +14,9 @@ Date: Tuesday the 7th of May 2024.
 
 7. git add .
 
-8. git commit -m 
+8. git commit -m  - hapahapahapa1
 
-9. git push 
+9. git push - hapa2
 
 10. mv (also git mv)
 
